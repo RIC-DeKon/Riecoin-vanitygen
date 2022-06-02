@@ -34,8 +34,8 @@ make
 ## Example Usage
 ```
 $ ./vanitygen -p ric1q0000
+Starting X threads
 Pattern: ric1q0000
-Generating BTC Address
 [00:00:00:00][7 Kkey/s][Total 1][Eta 3 min]
 [00:00:00:05][23 Kkey/s][Total 103638][Eta 51 sec]
 [00:00:00:10][20 Kkey/s][Total 205645][Eta 57 sec]
