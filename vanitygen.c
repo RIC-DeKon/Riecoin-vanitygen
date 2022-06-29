@@ -110,7 +110,7 @@ void check_pattern(char* pattern)
 {
 	if(pattern[0] != 'r' || pattern[1] != 'i' ||pattern[2] != 'c' ||pattern[3] != '1' ||pattern[4] != 'q')
 	{
-		printf("Riecoin address starts with bc1q\n");
+		printf("Riecoin address starts with ric1q\n");
 		exit(1);
 	}
 	
